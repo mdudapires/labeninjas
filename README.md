@@ -23,5 +23,11 @@ O LabeNinjas consiste em uma réplica simplificada do site GetNinjas, responsáv
 
 
 ### Link do Surge
- bewildered-north.surge.sh
+ https://bewildered-north.surge.sh
 
+####
+![labeninjasHome](https://user-images.githubusercontent.com/90624608/169662010-bcc1ef01-179b-4c83-a9f3-5d8e100f9cab.png)
+![labeninjasCadastro](https://user-images.githubusercontent.com/90624608/169662013-19fd0089-e964-4703-b22e-a93537b7e323.png)
+![labeninj![labeninjasPaginaDetalhes](https://user-images.githubusercontent.com/90624608/169662018-78d08b28-3aa9-4357-83f6-f5dc8f0739d0.png)
+asContratante](https://user-images.githubusercontent.com/90624608/169662014-30acb8c4-e8ab-4e77-9026-8515f33b2a37.png)
+![labeninjasCarrinho](https://user-images.githubusercontent.com/90624608/169662022-798d7285-4ae1-440e-be1f-07ecfb180d58.png)
