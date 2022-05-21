@@ -19,6 +19,8 @@ O LabeNinjas consiste em uma réplica simplificada do site GetNinjas, responsáv
 * React;
 * Material UI;
 * Styled-Components;
+* React-router-dom;
+* Moment;
 * Axios.
 
 
